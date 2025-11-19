@@ -1,0 +1,11 @@
+{
+    "tzdb": {
+        "package": "nx_tzdb",
+        "repo": "misc/tzdb_to_nx",
+        "git_host": "git.crueter.xyz",
+        "artifact": "%VERSION%.tar.gz",
+        "tag": "%VERSION%",
+        "hash": "87abb2aeca716d5d77b05317086dbc2f8acfc2f3f76ce4778345ee3df19973e6cd8ecbf16cfab5ad94c9636a6c44fd3588f9aadd3cba89403cfd56c8bec645c5",
+        "version": "091025"
+    }
+}
